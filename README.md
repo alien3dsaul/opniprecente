@@ -1,0 +1,2 @@
+# opniprecente
+addaptative
